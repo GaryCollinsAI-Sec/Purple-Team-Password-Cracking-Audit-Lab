@@ -1,4 +1,4 @@
-# Purple Team Password Audit Lab
+# Purple Team Password & Audit Lab
 
 ## Overview
 
