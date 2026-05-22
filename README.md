@@ -56,7 +56,6 @@ System authentication logs were analyzed using `journalctl` to identify login ac
 
 <img width="809" height="343" alt="Screenshot From 2026-05-21 22-52-26" src="https://github.com/user-attachments/assets/4115db6f-55f2-4a03-8106-ae14bd94a295" />
 
-<img width="800" height="187" alt="Screenshot From 2026-05-21 22-52-53" src="https://github.com/user-attachments/assets/33e26a4a-79a7-46e7-a4ca-2d65ed81ca60" />
 
 <img width="809" height="220" alt="Screenshot From 2026-05-21 22-55-00" src="https://github.com/user-attachments/assets/81dd2604-2cbd-4e76-9389-9e738d463732" />
 
